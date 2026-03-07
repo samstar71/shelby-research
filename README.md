@@ -34,3 +34,6 @@ The goal of this repository is to understand how decentralized infrastructure ca
 ---
 
 This repo will continue documenting experiments, ideas, and research about Shelby.
+## Shelby Architecture
+
+![Shelby Architecture](shelby-architecture.png)
