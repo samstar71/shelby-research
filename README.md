@@ -37,3 +37,16 @@ This repo will continue documenting experiments, ideas, and research about Shelb
 ## Shelby Architecture
 
 ![Shelby Architecture](shelby-architecture.png)
+## Shelby Architecture
+
+![Shelby Architecture](shelby-architecture.png)
+
+### Architecture Overview
+
+Shelby connects applications with decentralized storage providers through RPC gateways.
+
+User requests travel through the public internet to Shelby RPC nodes, which coordinate with decentralized storage providers.
+
+The private network layer powered by DoubleZero enables predictable routing, deterministic bandwidth, and low latency.
+
+Aptos acts as the verification layer, anchoring cryptographic receipts that prove what data was served and when.
